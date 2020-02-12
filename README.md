@@ -1,7 +1,7 @@
 # strong-racoon
 
 
-Selenium Webdriver using Python repo
+Selenium Webdriver learning by Stepik
 
 
 
